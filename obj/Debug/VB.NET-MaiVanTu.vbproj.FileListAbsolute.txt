@@ -1,0 +1,201 @@
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\cuoikyvbmaivantu2.exe.config
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\cuoikyvbmaivantu2.exe
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\cuoikyvbmaivantu2.pdb
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\cuoikyvbmaivantu2.xml
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\cuoikyvbmaivantu2.Form1.resources
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\cuoikyvbmaivantu2.Form2.resources
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\cuoikyvbmaivantu2.Form3.resources
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\cuoikyvbmaivantu2.Resources.resources
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\VB.NET-MaiVanTu.vbproj.GenerateResource.Cache
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\VB.NET-MaiVanTu.vbproj.CoreCompileInputs.cache
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\cuoikyvbmaivantu2.exe
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\cuoikyvbmaivantu2.xml
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\cuoikyvbmaivantu2.pdb
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\cuoikyvbmaivantu2._60_MaiVanTu_Form4.resources
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\VB.NET-MaiVanTu.vbprojResolveAssemblyReference.cache
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Interop.CrystalPrintControlLib.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\AxInterop.CrystalPrintControlLib.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\Interop.CRQUERYENGINE.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\Interop.CrystalPrintControlLib.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\AxInterop.CrystalPrintControlLib.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\VB.NET-MaiVanTu.vbproj.ResolveComReference.cache
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\stdole.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\EnvDTE.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\EnvDTE80.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\VSLangProj.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\VSLangProj80.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Newtonsoft.Json.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.MSXML.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.Build.Framework.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\VSLangProj2.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luu tai lieu\VB NET\cuoikyvbmaivantu2\cuoikyvbmaivantu2\obj\Debug\VB.NET-MaiVanTu.vbproj.cuoikyvbmaivantu2.exe.config
+D:\GitCop\vbendlast\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\GitCop\vbendlast\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\GitCop\vbendlast\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\GitCop\vbendlast\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\GitCop\vbendlast\bin\Debug\cuoikyvbmaivantu2.exe.config
+D:\GitCop\vbendlast\bin\Debug\cuoikyvbmaivantu2.exe
+D:\GitCop\vbendlast\bin\Debug\cuoikyvbmaivantu2.pdb
+D:\GitCop\vbendlast\bin\Debug\cuoikyvbmaivantu2.xml
+D:\GitCop\vbendlast\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\GitCop\vbendlast\bin\Debug\EnvDTE.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\GitCop\vbendlast\bin\Debug\stdole.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\GitCop\vbendlast\bin\Debug\EnvDTE80.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\GitCop\vbendlast\bin\Debug\VSLangProj.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\GitCop\vbendlast\bin\Debug\VSLangProj80.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\GitCop\vbendlast\bin\Debug\Newtonsoft.Json.dll
+D:\GitCop\vbendlast\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.MSXML.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.Build.Framework.dll
+D:\GitCop\vbendlast\bin\Debug\VSLangProj2.dll
+D:\GitCop\vbendlast\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\GitCop\vbendlast\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\GitCop\vbendlast\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\GitCop\vbendlast\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\GitCop\vbendlast\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\GitCop\vbendlast\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\GitCop\vbendlast\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\GitCop\vbendlast\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\GitCop\vbendlast\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitCop\vbendlast\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitCop\vbendlast\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitCop\vbendlast\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitCop\vbendlast\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitCop\vbendlast\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitCop\vbendlast\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitCop\vbendlast\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\GitCop\vbendlast\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\GitCop\vbendlast\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\GitCop\vbendlast\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\GitCop\vbendlast\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\GitCop\vbendlast\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\GitCop\vbendlast\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\GitCop\vbendlast\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitCop\vbendlast\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitCop\vbendlast\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitCop\vbendlast\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitCop\vbendlast\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitCop\vbendlast\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitCop\vbendlast\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitCop\vbendlast\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitCop\vbendlast\obj\Debug\VB.NET-MaiVanTu.vbprojResolveAssemblyReference.cache
+D:\GitCop\vbendlast\obj\Debug\VB.NET-MaiVanTu.vbproj.cuoikyvbmaivantu2.exe.config
+D:\GitCop\vbendlast\obj\Debug\VB.NET-MaiVanTu.vbproj.ResolveComReference.cache
+D:\GitCop\vbendlast\obj\Debug\cuoikyvbmaivantu2.Form1.resources
+D:\GitCop\vbendlast\obj\Debug\cuoikyvbmaivantu2.Form2.resources
+D:\GitCop\vbendlast\obj\Debug\cuoikyvbmaivantu2.Form3.resources
+D:\GitCop\vbendlast\obj\Debug\cuoikyvbmaivantu2._60_MaiVanTu_Form4.resources
+D:\GitCop\vbendlast\obj\Debug\cuoikyvbmaivantu2.Resources.resources
+D:\GitCop\vbendlast\obj\Debug\VB.NET-MaiVanTu.vbproj.GenerateResource.Cache
+D:\GitCop\vbendlast\obj\Debug\VB.NET-MaiVanTu.vbproj.CoreCompileInputs.cache
+D:\GitCop\vbendlast\obj\Debug\cuoikyvbmaivantu2.exe
+D:\GitCop\vbendlast\obj\Debug\cuoikyvbmaivantu2.xml
+D:\GitCop\vbendlast\obj\Debug\cuoikyvbmaivantu2.pdb

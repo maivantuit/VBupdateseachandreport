@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsdanhsachsanphamdetimkiem" targetNamespace="http://tempuri.org/dsdanhsachsanphamdetimkiem.xsd" xmlns:mstns="http://tempuri.org/dsdanhsachsanphamdetimkiem.xsd" xmlns="http://tempuri.org/dsdanhsachsanphamdetimkiem.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsdanhsachsanphamdetimkiem" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsdanhsachsanphamdetimkiem" msprop:Generator_DataSetName="dsdanhsachsanphamdetimkiem">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SanPham" msprop:Generator_TableClassName="SanPhamDataTable" msprop:Generator_TableVarName="tableSanPham" msprop:Generator_TablePropName="SanPham" msprop:Generator_RowDeletingName="SanPhamRowDeleting" msprop:Generator_RowChangingName="SanPhamRowChanging" msprop:Generator_RowEvHandlerName="SanPhamRowChangeEventHandler" msprop:Generator_RowDeletedName="SanPhamRowDeleted" msprop:Generator_UserTableName="SanPham" msprop:Generator_RowChangedName="SanPhamRowChanged" msprop:Generator_RowEvArgName="SanPhamRowChangeEvent" msprop:Generator_RowClassName="SanPhamRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaSP" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_ColumnVarNameInTable="columnMaSP" msprop:Generator_ColumnPropNameInRow="MaSP" msprop:Generator_ColumnPropNameInTable="MaSPColumn" msprop:Generator_UserColumnName="MaSP" type="xs:int" />
+              <xs:element name="TenSP" msprop:Generator_ColumnVarNameInTable="columnTenSP" msprop:Generator_ColumnPropNameInRow="TenSP" msprop:Generator_ColumnPropNameInTable="TenSPColumn" msprop:Generator_UserColumnName="TenSP" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MaDMSP" msprop:Generator_ColumnVarNameInTable="columnMaDMSP" msprop:Generator_ColumnPropNameInRow="MaDMSP" msprop:Generator_ColumnPropNameInTable="MaDMSPColumn" msprop:Generator_UserColumnName="MaDMSP" type="xs:int" minOccurs="0" />
+              <xs:element name="ThuongHieu" msprop:Generator_ColumnVarNameInTable="columnThuongHieu" msprop:Generator_ColumnPropNameInRow="ThuongHieu" msprop:Generator_ColumnPropNameInTable="ThuongHieuColumn" msprop:Generator_UserColumnName="ThuongHieu" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Gia" msprop:Generator_ColumnVarNameInTable="columnGia" msprop:Generator_ColumnPropNameInRow="Gia" msprop:Generator_ColumnPropNameInTable="GiaColumn" msprop:Generator_UserColumnName="Gia" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SoLuong" msprop:Generator_ColumnVarNameInTable="columnSoLuong" msprop:Generator_ColumnPropNameInRow="SoLuong" msprop:Generator_ColumnPropNameInTable="SoLuongColumn" msprop:Generator_UserColumnName="SoLuong" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:SanPham" />
+      <xs:field xpath="mstns:MaSP" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
